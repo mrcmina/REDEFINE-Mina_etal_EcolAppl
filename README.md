@@ -1,5 +1,5 @@
 # REDEFINE-Mina_etal_EcolAppl
-This repository contains the LANDIS-II and PnET-Succession input files used in the first study of the REDEFiNE project described in the paper: *Mina, M., C. Messier, M. Duveneck, M.-J. Fortin, and N. Aquilué*. (in revision). **Network analysis can guide resilience-based management in forest landscapes under global change**. Ecological Applications.
+This repository contains the LANDIS-II and PnET-Succession input files used in the first study of the REDEFiNE project described in the paper: *Mina, M., C. Messier, M. Duveneck, M.-J. Fortin, and N. Aquilué*. (2020). **Network analysis can guide resilience-based management in forest landscapes under global change**. Ecological Applications. https://doi.org/10.1002/eap.2221
 
 Cite the dataset: [![DOI](https://zenodo.org/badge/262424477.svg)](https://zenodo.org/badge/latestdoi/262424477)
 
