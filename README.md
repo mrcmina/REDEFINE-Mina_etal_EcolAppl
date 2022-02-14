@@ -4,7 +4,7 @@ This repository contains the LANDIS-II and PnET-Succession input files used in t
 Cite the dataset: [![DOI](https://zenodo.org/badge/262424477.svg)](https://zenodo.org/badge/latestdoi/262424477)
 
 If you are interested in using the dataset for a research study/project, please get in touch with me
-Email. mina.marco@courrier.uqam.ca
+Email. marco.mina@eurac.edu
 
 
 **Abstract**
